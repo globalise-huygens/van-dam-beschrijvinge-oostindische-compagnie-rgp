@@ -1,0 +1,114 @@
+132
+11
+150
+16
+21
+15
+8
+46
+4
+81
+
+boeckhouder-generaal
+ontfanger-generaal .
+licentmeester ee
+equippagiemeester .
+
+dito en WAT
+raden van justitie  f 100
+dito .
+
+fiscaal dwe
+dito  f 50
+dito  f 40
+dito  f 20
+opperkoopman ee
+dito  f 10
+dito  f 90
+dito  f 85
+dito  f 80
+dito  f 70
+koopman . dun te
+dito  f 65
+dito  f 60
+dito  f 50
+onderkoopluyden  f 50
+dito ee zp 1e -
+dito  f 45
+dito Ee ad
+onderkoopluyden  f 40
+dito  f 36
+boeekhouder ze
+dito RE eN
+dito  f 34
+dito f 32
+dito  f 30
+dito  f 28
+dito ie
+dito é B
+assistent . ese
+dito  f 26
+dito  f 25
+dito  f 24
+dito a f 22
+dito  f 20
+dito  f 18
+dito  f 16
+dito  f 15
+dito f 14
+dito f 12
+dito  f 11
+dito  f 10
+
+259 XIVUI gequalificeerde dienaren.
+
+hed .
+
+130
+150
+90
+150
+70
+800
+80
+60
+500
+200
+20
+120
+300
+180
+255
+1.200
+40
+80
+975
+2.520
+100
+150
+48
+90
+42
+4.560
+684
+42
+36
+68
+6
+3.450
+308
+27
+4
+36
+260
+75
+3.168
+242
+3.000
+288
+336
+225
+u2
+552
+MA
+810
